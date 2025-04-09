@@ -1,0 +1,6 @@
+.env
+transcription.txt
+__pycache__/
+output.md
+*.mp4
+*.mp3
