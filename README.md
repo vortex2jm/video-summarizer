@@ -3,7 +3,7 @@
  - This script receives a video as input and follows the pipeline below:
  1. Extracts the .mp3 audio from video with a 16k bit rate, 12KHz sample rate, and 1 channel;
  2. Transcripts the audio with FasterWhisper model;
- 3. Uses DeepSeek to create the blog template with the transcripted audio;
+ 3. Uses DeepSeek to create a summary with the transcripted audio;
 
 ### Requirements
 ```bash
