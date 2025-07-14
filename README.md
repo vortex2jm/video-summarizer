@@ -5,6 +5,8 @@
  2. Transcripts the audio with FasterWhisper model;
  3. Uses DeepSeek to create a summary with the transcripted audio;
 
+ - Create an API Key in [https://openrouter.ai/](https://openrouter.ai/) to enjoy all features of the script.
+
 ### Requirements
 ```bash
 sudo apt install ffmpeg
