@@ -1,4 +1,4 @@
-## Blog text generator
+## Video Summarizer
 
  - This script receives a video as input and follows the pipeline below:
  1. Extracts the .mp3 audio from video with a 16k bit rate, 12KHz sample rate, and 1 channel;
